@@ -1,5 +1,4 @@
 //Daninthia Fox
-//UAID: 010762674
 
 #include <math.h>
 #include <stdio.h>
