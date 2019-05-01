@@ -1,8 +1,3 @@
-// Program: ray_trace.cpp
-// Purpose: Demonstrate ray tracing.
-// Author:  John Gauch
-// Date:    Spring 2019
-//---------------------------------------
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
